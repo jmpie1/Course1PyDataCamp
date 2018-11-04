@@ -55,7 +55,7 @@ weight=np.round(np.random.normal(60.32,15,5000),2)
 np_city=np.column_stack((height,weight))
 print(np_city, np_city.shape)
 
-#Fin
+#Fin Test commit
 
 
 
